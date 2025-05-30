@@ -4,4 +4,9 @@ The Legend of Koma is my attempt to create a game for the Atari 2600. It's my fi
 
 The game is compiled with the [DASM Assembler](https://dasm-assembler.github.io/), tested with the [Stella Emulator](https://stella-emu.github.io/).
 
-Special thanks to [Gustavo Pezzi](https://pikuma.com/courses/learn-assembly-language-programming-atari-2600-games) for making this possible.
+Special thanks to [Gustavo Pezzi](https://pikuma.com/courses/learn-assembly-language-programming-atari-2600-games) for making this possible, the game has comments baed on the course.
+
+## Info (to complete)
+
+- The game runs in NTSC format
+- Racing the beam
