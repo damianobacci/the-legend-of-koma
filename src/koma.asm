@@ -1,7 +1,7 @@
 	processor 6502
 
-    include "vcs.h"
-	include "macro.h"
+    include "lib/vcs.h"
+	include "lib/macro.h"
 
 	seg code
     org $F000
